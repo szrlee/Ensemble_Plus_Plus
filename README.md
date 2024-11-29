@@ -1,8 +1,8 @@
 
 
-# HyperAgent [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszrlee%2FHyperAgent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Ensemble++ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszrlee%2FHyperAgent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Author: [Yingru Li](https://richardli.xyz), [Jiawei Xu](https://github.com/jiawei415), [Zhi-Quan Luo](https://en.wikipedia.org/wiki/Zhi-Quan_Tom_Luo)
+Author: [Yingru Li](https://richardli.xyz), [Jiawei Xu](https://github.com/jiawei415), [Baoxiang Wang](https://bxiangwang.github.io/), [Zhi-Quan Luo](https://en.wikipedia.org/wiki/Zhi-Quan_Tom_Luo)
 
 Welcome to the official implementation of **Ensemble++**. This repository accompanies our paper [Scalable Exploration via Ensemble++](https://arxiv.org/abs/2407.13195).
 
